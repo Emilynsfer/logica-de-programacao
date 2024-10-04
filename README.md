@@ -22,7 +22,7 @@
 
 # Como foi feito 
 
-<p> Utilizando a linguagem Javascript eu segui alguns dos requisitos do desenvolvimento do projeto. Declarei duas variáveis, uma para armazenar o nome do personagem e outra para armezenar a quantidade de XP do herói. Dependendo do valor armazenado na variável de experiência o terminal pode aprensentar diferentes resultados. Alguns resultados possíveis são: nível prata, nível ouro, imortal, bronze e outros. Inicialmente eu deixei um nome previamente salvo no nome do meu personagem e também deixei um valor inválido nos pontos de experiência, mas esses valores podem ser alterados com facilidade. </p>
+<p> Utilizando a linguagem Javascript eu segui alguns dos requisitos do desenvolvimento do projeto. Declarei duas variáveis, uma para armazenar o nome do personagem e outra para armezenar a quantidade de XP do herói. Dependendo do valor armazenado na variável de experiência o terminal pode aprensentar diferentes resultados. Alguns resultados possíveis são: nível prata, nível ouro, imortal, bronze e outros. Inicialmente eu deixei um nome e um número salvos previamente nas variávei do projeto, mas esses valores podem ser alterados com facilidade. </p>
 
 # Agradecimentos
 
