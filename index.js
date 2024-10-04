@@ -5,7 +5,7 @@ let nomeHeroi = "Lulu"
 let pontosDeExperiencia = "10000"
 
 //Verifica em qual nível está o personagem de acordo com as condições apresentadas e o valor numérico armazenado na variável pontosDeExperiencia.
-//Após a verificação, se os valores das variáveis forem validos, será apresentado uma mensagem de saída com o nome e o nivel de classificação do personagem. 
+//Após a verificação, se os valores das variáveis forem válidos, será apresentado uma mensagem de saída com o nome e o nivel de classificação do personagem. 
 if (pontosDeExperiencia < 1000) {
     console.log("O herói de nome " + nomeHeroi + " está no nível Ferro")
 } else if (pontosDeExperiencia >= 1001 && pontosDeExperiencia <= 2000) {
