@@ -1,5 +1,5 @@
 let nomeHeroi = "Lulu"
-let pontosDeExperiencia = "b"
+let pontosDeExperiencia = "10000"
 
 if (pontosDeExperiencia < 1000) {
     console.log("O herói de nome " + nomeHeroi + " está no nível Ferro")
